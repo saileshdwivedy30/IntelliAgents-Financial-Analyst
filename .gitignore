@@ -4,3 +4,7 @@ venv/
 env/
 .env
 .idea/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
